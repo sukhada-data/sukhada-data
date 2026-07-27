@@ -76,7 +76,7 @@ I'm seeking an opportunity as a **Data Analyst**  and **Data Scientist** where I
 
 ## Connect With Me
 
--  **LinkedIn:** linkedin.com/in/sukhada-kulkarni-81016433a/
+-  **LinkedIn:** https://linkedin.com/in/sukhada-kulkarni-81016433a/
 -  **GitHub:** https://github.com/sukhada-data
 -  **Email:** sukhada.kulkarni2223@gmail.com
 
