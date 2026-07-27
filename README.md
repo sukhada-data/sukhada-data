@@ -27,7 +27,7 @@ My GitHub portfolio showcases end-to-end data analytics projects using **SQL, Mi
 - Microsoft Excel Dashboards
 - Power BI
 - Tableau
-- 
+  
 ### Programming
 - Python
 - Pandas
