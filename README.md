@@ -88,7 +88,6 @@ I'm seeking an opportunity as a **Data Analyst**  and **Data Scientist** where I
 - Business Intelligence
 - Dashboard Development
 - Data-Driven Decision Making
-- Continuous Learning
 - Data Scientist
 
 ---
