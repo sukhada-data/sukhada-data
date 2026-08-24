@@ -1,6 +1,6 @@
 # Hi there, I'm Sukhada Kulkarni 
 
-## Aspiring Data Analyst | SQL | Excel | Power BI | Python 
+## Aspiring Data Analyst | SQL | Excel | Power BI | Python |
 
 I'm an aspiring **Data Analyst** passionate about transforming raw data into meaningful insights that drive better business decisions. I enjoy cleaning, analyzing, and visualizing data to uncover trends, solve real-world business problems, and build interactive dashboards.
 
